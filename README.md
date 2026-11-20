@@ -14,7 +14,7 @@
 <p align="center"><img src="./media/preview.png" alt="Addictive Drums 2 plugin interface overview" width="100%"></p>
 
 <p align="center">
-  <a href="__PAGES_URL__">
+  <a href="https://chavez-tatiana.github.io/addictive-drums-2-windows/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./media/button2.svg">
       <img src="./media/button1.svg" alt="Button1" width="320">
